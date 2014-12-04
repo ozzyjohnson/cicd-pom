@@ -1,1 +1,1 @@
-{'name': 'Ozzy', 'email': 'ozzy.johnson@gmail.com', 'url':'http://ozzyjohnson.github.io', 'organization': 'Ozzy Johnson', 'timezone': 'America/New_York', 'roles': {'role': 'tester'}, 'properties': {'gtalk':'ozzy.johnson@gmail.com'}}
+{'name': 'Ozzy', 'email': 'docker@ozzy.io', 'url':'http://ozzyjohnson.github.io', 'organization': 'Ozzy Johnson', 'timezone': 'America/New_York', 'roles': {'role': 'tester'}, 'properties': {'gtalk':'ozzy.johnson@gmail.com'}}
